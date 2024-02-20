@@ -1,0 +1,16 @@
+{
+  "name": "scientific-calculator",
+  "version": "1.0.0",
+  "description": "Scientific Calculator with redux state management",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator",
+    "javaScript",
+    "redux"
+  ],
+  "author": "Adam Shaffer",
+  "license": "MIT"
+}
